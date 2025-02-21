@@ -1,4 +1,4 @@
-const API_KEY = './config.js';
+import { API_KEY } from './config.js';
 
 document.getElementById('search-btn').addEventListener('click', getWeather);
 

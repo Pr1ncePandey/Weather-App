@@ -33,8 +33,21 @@ const API_KEY = 'your_api_key_here';
 
 ## Screenshots
 
-[Add your screenshots here]
+![Weather App Demo](https://raw.githubusercontent.com/Pr1ncePandey/Weather-App/main/Weather%20App.png)
 
-## Live Demo
+## License
+This project is licensed under the MIT License.
 
-[Add your live demo link here if you deploy it]
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Contact
+
+PrincePandey - princepandey4873@gmail.com

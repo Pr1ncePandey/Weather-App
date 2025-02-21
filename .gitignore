@@ -1,0 +1,13 @@
+# API keys
+config.js
+
+# Environment variables
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
